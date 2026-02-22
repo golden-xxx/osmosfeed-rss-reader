@@ -6,7 +6,8 @@
 cacheUrl: https://golden-xxx.github.io/osmosfeed-rss-reader/cache.json
 
 # --- SECTION 1: SYSTEM & UI CONFIG ---
-theme: https://cdn.jsdelivr.net/npm/osmosfeed@latest/dist/themes/solarized-dark.css
+ui:
+  theme: https://cdn.jsdelivr.net/npm/osmosfeed@latest/dist/themes/solarized-dark.css
 
 # --- SECTION 2: THE FEED LIBRARY ---
 sources:
