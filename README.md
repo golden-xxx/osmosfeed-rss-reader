@@ -13,6 +13,7 @@ https://github.com/osmoscraft/osmosfeed/blob/master/docs/headless-usage-guide.md
 ## Theme Options:
 
 https://github.com/osmoscraft/osmosfeed/blob/master/docs/customization-guide.md
+
 https://github.com/osmoscraft/osmosfeed-examples/tree/main
 
 ## Links and references
