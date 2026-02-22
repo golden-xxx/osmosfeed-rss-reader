@@ -2,8 +2,16 @@
 # Full reference
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
-
 cacheUrl: https://golden-xxx.github.io/osmosfeed-rss-reader/cache.json
+
+# Title to use in the browser tab and the machine readable feed output. (Optional)
+siteTitle: "RSS Reader"
+
+# Find yours from the "TZ database name" column of this page: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+timezone: "Asia/Kuala_Lumpur"
+
+# `cacheMaxDays` Max number of days to keep the feed content in cache. A very large value can increase the initial load time of the site. (Optional)
+cacheMaxDays: 30
 
 # --- SECTION 1: THE FEED LIBRARY ---
 sources:
