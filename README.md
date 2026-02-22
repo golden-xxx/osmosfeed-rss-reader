@@ -2,8 +2,17 @@
 
 This is repository hosts the UI and content of an RSS feed reader.
 
+## Configure osmosfeed.yaml
+
+https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
+
+## Headless usage guide
+
+https://github.com/osmoscraft/osmosfeed/blob/master/docs/headless-usage-guide.md
+
 ## Theme Options:
 
+https://github.com/osmoscraft/osmosfeed/blob/master/docs/customization-guide.md
 https://github.com/osmoscraft/osmosfeed-examples/tree/main
 
 ## Links and references
