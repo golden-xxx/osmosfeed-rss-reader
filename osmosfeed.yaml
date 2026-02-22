@@ -19,3 +19,131 @@ sources:
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
+
+  # --- 001.01 NEWS: MALAYSIA ---
+  - href: https://www.thestar.com.my/RSS/News/Nation
+    title: "NEWS: The Star 🇲🇾"
+  - href: https://www.freemalaysiatoday.com/feed/
+    title: "NEWS: Free Malaysia Today"
+  - href: http://www.themalaymailonline.com/feed/rss/malaysia
+    title: "NEWS: Malay Mail"
+  - href: http://english.astroawani.com/rss/national/public
+    title: "NEWS: Astro Awani"
+  - href: https://guangming.com.my/feed
+    title: "NEWS: 光明日报 Guang Ming Daily"
+  - href: https://therocket.com.my/cn/feed/
+    title: "NEWS: 火箭报 – THE ROCKET"
+  - href: http://fetchrss.com/rss/61680ee38eddcc377639008261681071fb679f63bb00cbc2.xml
+    title: "(#Low-Signal) FB: Bank Negara Malaysia"
+  - href: https://twitter.com/MITIMalaysia
+    title: "(#Verify) TWT: MITIMalaysia"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCURes72wqcEpid6EKNXWfxw
+    title: "YT: Astro 本地圈"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCpWvshQVx1d7BqCsPnVuNIw
+    title: "YT: The Star"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UClbdrLUa2N-cyQLDsno4WKQ
+    title: "YT: SoyaCincau"
+
+  # --- 001.02 NEWS: ASIA ---
+  - href: https://www.reutersagency.com/feed/?best-regions=asia&post_type=best
+    title: "NEWS: Reuters Asia"
+  - href: https://asean.org/feed/
+    title: "NEWS: ASEAN Secretariat"
+  - href: https://www.scmp.com/rss/91/feed
+    title: "NEWS: SCMP Asia"
+  - href: https://english.kyodonews.net/rss/news.xml
+    title: "NEWS: KYODO News"
+  - href: https://mainichi.jp/english/rss/news
+    title: "NEWS: Mainichi Japan"
+  - href: https://www.japantimes.co.jp/feed/
+    title: "NEWS: The Japan Times"
+
+  # --- 001.03 NEWS: WORLD ---
+  - href: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+    title: "NEWS: NYT World"
+  - href: http://feeds.bbci.co.uk/news/rss.xml
+    title: "NEWS: BBC News"
+  - href: https://www.reuters.com/rssFeed/worldNews
+    title: "NEWS: Reuters World"
+  - href: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+    title: "NEWS: WSJ World News"
+  - href: http://feeds.guardian.co.uk/theguardian/world/rss
+    title: "NEWS: Guardian World"
+  - href: https://www.ft.com/world?format=rss
+    title: "NEWS: FT World"
+  - href: https://rsshub.app/reuters/world
+    title: "(#Verify) RSSHub: Reuters World"
+
+  # --- 010.01 BIZ: FINANCE ---
+  - href: https://ringgitohringgit.com/feed/
+    title: "BIZ: Ringgit Oh Ringgit"
+  - href: https://www.theedgemarkets.com/rss
+    title: "BIZ: The Edge Markets Malaysia"
+  - href: https://feeds.bloomberg.com/markets/asia
+    title: "BIZ: Bloomberg Asia"
+  - href: https://www.reuters.com/rssFeed/businessNews
+    title: "BIZ: Reuters Business"
+  - href: https://www.ft.com/markets?format=rss
+    title: "BIZ: Financial Times – Markets"
+  - href: https://feeds.a.dj.com/rss/RSSMarketsMain.xml
+    title: "BIZ: WSJ – Markets"
+  - href: https://www.gurufocus.com/rss.php
+    title: "BIZ: GuruFocus"
+  - href: https://www.coindesk.com/arc/outboundfeeds/rss/
+    title: "BIZ: CoinDesk (#Source-Fixed)"
+  - href: http://cointelegraph.com/rss
+    title: "(#Archive) BIZ: Cointelegraph"
+  - href: https://www.reddit.com/r/MalaysianPF/.rss
+    title: "RDT: Personal Finance MY"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UC2lCbmzvH0mEXK7PghzTrbA
+    title: "YT: The Edge Malaysia"
+
+  # --- 020.01 INSIGHT: SCIENCETECH ---
+  - href: https://www.nasa.gov/rss/dyn/breaking_news.rss
+    title: "SCI: NASA Breaking News"
+  - href: https://rss.nytimes.com/services/xml/rss/nyt/Science.xml
+    title: "SCI: NYT Science"
+  - href: http://newsrss.bbc.co.uk/rss/newsonline_world_edition/science/nature/rss.xml
+    title: "SCI: BBC Science & Environment"
+  - href: http://feeds.nature.com/nature/rss/current?x=1
+    title: "SCI: Nature Journal"
+  - href: https://www.scientificamerican.com/feed/rss/
+    title: "SCI: Scientific American"
+  - href: https://arstechnica.com/feed/
+    title: "TECH: Ars Technica (#Source-Fixed)"
+  - href: https://twitter.com/NASAPersevere
+    title: "(#Verify) TWT: NASAPersevere"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCHnyfMqiRRG1u-2MsSQLbXA
+    title: "YT: Veritasium"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q
+    title: "YT: Kurzgesagt – In a Nutshell"
+
+  # --- 030.01 ENT: MEDIA/YT ---
+  - href: https://variety.com/feed/
+    title: "ENT: Variety"
+  - href: https://www.hollywoodreporter.com/feed/
+    title: "ENT: Hollywood Reporter"
+  - href: https://collider.com/rss/all/
+    title: "ENT: Collider"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCKy1dAqELo0zrOtPkf0eTMw
+    title: "YT: IGN"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw
+    title: "YT: Linus Tech Tips"
+  - href: https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA
+    title: "YT: TED"
+  - href: http://fetchrss.com/rss/61682b331b8ffb4a2e4a11a861682b51bc0644c79a0e3de7.xml
+    title: "(#Archive) FB: 9GAG"
+
+  # --- 040.01 SOCIAL: COMMUNITY ---
+  - href: https://www.reddit.com/r/malaysia/.rss
+    title: "RDT: Malaysia"
+  - href: https://www.reddit.com/r/technology/.rss
+    title: "RDT: Technology"
+  - href: https://www.reddit.com/r/personalfinance/.rss
+    title: "RDT: PersonalFinance"
+  - href: http://fetchrss.com/rss/61681287e70e4b05333d1a86168128aebdf93097b804e5c7.xml
+    title: "(#Low-Signal) FB: The Malaysian Insight"
+  - href: https://fetchrss.com/rss/615cc8238e1aa03f534ca674615cc8f3b38d76ec55de0546.xml
+    title: "INS: Humans of New York"
+  - href: https://twitter.com/OpenAI
+    title: "(#Verify) TWT: OpenAI"
