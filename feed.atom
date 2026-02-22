@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-22T13:13:44.178Z</id>
+    <id>https://golden-xxx.github.io/osmosfeed-rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-02-22T13:13:44.178Z</updated>
+    <updated>2026-02-22T13:51:25.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://golden-xxx.github.io/osmosfeed-rss-reader/index.html"/>
+    <link rel="self" href="https://golden-xxx.github.io/osmosfeed-rss-reader/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[How to Build Reusable Modular Unity Packages to Speed Up Development]]></title>
         <id>6998ee96a20b74e093d7e671</id>
