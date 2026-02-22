@@ -1,6 +1,7 @@
 # About
 
 This is repository hosts the UI and content of an RSS feed reader.
+
 Upon every successful GitHub Action completion (✅), perform a Hard Refresh (`Ctrl` + `F5`) on your hosted RSS Reader to bypass the cache and view the latest updates.
 
 ## Configure osmosfeed.yaml
