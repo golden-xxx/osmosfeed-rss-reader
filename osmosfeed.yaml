@@ -2,14 +2,10 @@
 # Full reference
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
+
 cacheUrl: https://golden-xxx.github.io/osmosfeed-rss-reader/cache.json
 
-# --- SECTION 1: SYSTEM & UI CONFIG ---
-ui:
-  includes:
-    before-head-end: theme/solarized-light.html
-
-# --- SECTION 2: THE FEED LIBRARY ---
+# --- SECTION 1: THE FEED LIBRARY ---
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
