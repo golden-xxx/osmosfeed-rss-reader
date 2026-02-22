@@ -2,11 +2,12 @@
 # Full reference
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
+cacheUrl: https://golden-xxx.github.io/osmosfeed-rss-reader/cache.json
 
 # --- SECTION 1: SYSTEM & UI CONFIG ---
-cacheUrl: https://golden-xxx.github.io/osmosfeed-rss-reader/cache.json
 ui:
-  theme: https://cdn.jsdelivr.net/npm/osmosfeed@latest/dist/themes/solarized-dark.css
+  includes:
+    before-head-end: theme/solarized-light.html
 
 # --- SECTION 2: THE FEED LIBRARY ---
 sources:
