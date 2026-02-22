@@ -37,6 +37,12 @@ sources:
     title: "YT: The Star"
   - href: https://www.youtube.com/feeds/videos.xml?channel_id=UClbdrLUa2N-cyQLDsno4WKQ
     title: "YT: SoyaCincau"
+  - href: https://cityplusfm.my/feed/
+    title: "NEWS: CITYPlus FM"
+  - href: https://www.moretify.com/feed/
+    title: "NEWS: Moretify 更精彩"
+  - href: https://says.com/my/rss
+    title: "NEWS: SAYS (#Verify)"
 
   # --- 001.02 NEWS: ASIA & WORLD ---
   - href: https://asean.org/feed/
@@ -89,3 +95,7 @@ sources:
     title: "RDT: Technology"
   - href: https://www.reddit.com/r/personalfinance/.rss
     title: "RDT: PersonalFinance"
+
+  # --- 100.01 GENERAL: RECOMMENDATION ---
+  - href: https://kill-the-newsletter.com/feeds/inesrt9dth2tdlgj.xml
+    title: "BIZ: The Edge (Newsletter Mode) (#Low-Signal)"
